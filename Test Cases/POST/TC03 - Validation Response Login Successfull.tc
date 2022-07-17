@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Validation Response Login Successfull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d9cfb90-380d-411d-a63f-c3fcb2c8ff3c</testCaseGuid>
+</TestCaseEntity>
