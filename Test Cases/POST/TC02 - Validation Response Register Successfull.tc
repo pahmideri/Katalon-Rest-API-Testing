@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Validation Response Register Successfull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fabafc16-0b4a-4c9e-a5b5-d01ee260fa6e</testCaseGuid>
+</TestCaseEntity>
